@@ -1,0 +1,12 @@
+Requirements:
+	Python: python.org (visit to install)
+	NumPy: pip install numpy
+	Pandas: pip install pandas
+
+
+             _,'|             _.-''``-...___..--';)
+           /_ \'.      __..-' ,      ,--...--'''
+          <\    .`--'''       `     /'
+           `-';'               ;   ; ;
+     __...--''     ___...--_..'  .;.'
+    (,__....----'''       (,..--''  
