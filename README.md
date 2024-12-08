@@ -31,4 +31,4 @@ This project demonstrates the implementation of a neural network model for class
 ### Epochs :
 - The model can be trained with variable epochs, with a decaying learning rate to improve performance over time.
 - The PreTrained Weights are trained on 300 epochs with a 90.6 % of accuracy.
-![Result after 300 Epochs](src/Trained_Weights/assets/result.png)
+![Result after 300 Epochs](mnist-neural-network/src/Trained_Weights/assets/result.png)
