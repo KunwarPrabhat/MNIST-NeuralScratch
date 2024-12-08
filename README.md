@@ -5,10 +5,10 @@
 https://drive.google.com/drive/folders/1EPwKl32m4vDzuaRVzPpaIcR4d74J3pzs?usp=sharing
         
         - Make sure that the train.csv and test.csv files are placed inside the 'src' folder before runnig the model.
-## **OverView** 
+## **OverView :-** 
 This project demonstrates the implementation of a neural network model for classifying the MNIST dataset (handwritten digits) using only NumPy. The model is trained from scratch without relying on any pre-built machine learning libraries, providing a great opportunity to understand the underlying mechanics of a neural network, including forward propagation, backpropagation, and weight updates.
 
-## **Working**
+## **Working :-**
 - Everything including activation functions, backward propagation and Training loops are implemented from scratch.
 - The network has:
   - Input Layer: 784 neurons (for flattened 28x28 pixel images).
